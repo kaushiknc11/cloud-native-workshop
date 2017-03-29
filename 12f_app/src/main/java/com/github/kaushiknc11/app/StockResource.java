@@ -21,11 +21,11 @@ import org.springframework.http.MediaType;
 public class StockResource {
 	@Autowired
 	private Environment environment;
-
-	@RequestMapping(value = "/get-env", method = RequestMethod.GET)
-	public String getEnv(@RequestParam String env) {
-	    return "Env" + " " + environment.getProperty(env);
-	}
+//
+//	@RequestMapping(value = "/get-env", method = RequestMethod.GET)
+//	public String getEnv(@RequestParam String env) {
+//	    return "Env" + " " + environment.getProperty(env);
+//	}
 	
     @RequestMapping(value = "/ping", method = RequestMethod.GET)
     public String ping() {
