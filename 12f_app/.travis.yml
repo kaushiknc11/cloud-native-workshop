@@ -6,7 +6,7 @@ deploy:
   provider: cloudfoundry
   username: kaushiknc11
   api: https://api.run.pivotal.io
-  organization: CF Class
+  organization: "CF Class"
   space: development
   password:
     secure: EOayYv0UTY3YMNu0NpXDPEfgCKpvwQ0KIYTd9JhFBguC4nw4XG6GI3/7TbUmqsQK2BA2miq+nsrci8QZqr+yT9f/Jt80Et8S3iewI1/uxdVejFTH61vm0RbPRHUpHSJRCq936wlmRpZ8YJNPSU5p3znRalo2vaUzsjVER3hZoBKNH2gWiKul8M7bdYuZ0OdJdjnGNFri9jxlXqf6/D4ksDQ1RSWTPZ+U4mz/Yzd3J1bP7H9z8q+Ihyyo9Hv9mlsOd64YT9GNmuSt/R+XYebZAQtimYQXWyXLprO5JlLpFBrbJ8c3odv2z19lVUi9w12tK9BDI33yfLa1pTCGV4Z2uSstoRB6lvUz7Nkn4YoGQg9PQbMFpbCQeoknjOnEiVJ4z9kyEG+RAppnpkie6KUat0NP43mMIzrJ0isUzNUxy4NL+t40sYsDhlekmc7XHKRTOOZGUE0HP4yrsqlhRsK76zxCOEpcs/lZEmenREY0XFbvYpYH/BHz/TlVYffYeTNBHKUyuCKKjUlpcFrs/DB4KmaGHSMhjBboivd7GEfbJ8LcquBvt4tjKLZKjO/9uqJZvMZII9vb0nt3n81Q3rVc/epUODPlLcOoxcAyMQHP6DxnDp5Y/BIQheyBZRsiKPJqci6W7oo2FcbS2iSB6P7GDCybhbTuQEqwK1as3YjT5sI=
