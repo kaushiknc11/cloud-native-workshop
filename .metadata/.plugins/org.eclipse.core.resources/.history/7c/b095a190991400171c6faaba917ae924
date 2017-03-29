@@ -1,0 +1,5 @@
+package com.github.kaushiknc11.app.domain.model;
+
+public class StockItemRepository {
+
+}
