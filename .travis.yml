@@ -6,6 +6,6 @@ deploy:
   provider: cloudfoundry
   username: kaushik.patel@sas.com
   api: https://api.run.pivotal.io
-  organization: CF Class
+  organization: "CF Class"
   space: staging
   password: CF4$Class
