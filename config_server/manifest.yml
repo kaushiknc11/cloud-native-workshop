@@ -4,6 +4,3 @@ applications:
   memory: 512M
   env:
     spring.cloud.config.server.git.uri: https://github.com/kaushiknc11/config_repository
-    spring.application.name: 12f_app
-    spring.cloud.config.uri: https://configapp.cfapps.io
-    management.security.enabled: false    
