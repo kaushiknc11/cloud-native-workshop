@@ -1,0 +1,7 @@
+applications:
+- name: kaushiknc11s
+  path: target/12f_app-1.0-SNAPSHOT.jar
+  memory: 512M
+  services:
+  - my-db
+  - my-redis

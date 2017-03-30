@@ -1,0 +1,11 @@
+package com.github.kaushiknc11.config;
+
+
+@EnableConfigServer
+@SpringBootApplication
+public class ConfigServiceApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ConfigServiceApplication.class, args);
+    }
+}

@@ -5,3 +5,7 @@ applications:
   services:
   - my-db
   - my-redis
+  env:
+    spring.application.name: 12f_app
+    spring.cloud.config.uri: https://configapp.cfapps.io
+    management.security.enabled: false    

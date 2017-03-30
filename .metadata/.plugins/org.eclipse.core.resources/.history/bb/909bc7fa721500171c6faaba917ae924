@@ -1,0 +1,12 @@
+package com.github.kaushiknc11.config;
+
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@EnableConfigServer
+@SpringBootApplication
+public class ConfigServiceApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ConfigServiceApplication.class, args);
+    }
+}
