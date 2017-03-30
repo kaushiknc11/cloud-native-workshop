@@ -516,3 +516,9 @@ org.eclipse.ecf.filetransfer.IncomingFileTransferException: HttpComponents conne
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-29 14:54:43.389
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-30 08:53:16.976
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-30 08:53:16.979
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

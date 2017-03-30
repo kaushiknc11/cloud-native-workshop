@@ -840,3 +840,7 @@
 2017-03-29 16:24:14,371 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2017-03-29 16:24:14,373 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-03-29 16:24:14,375 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Education\CFClass\cloud-native-workshop\12f_app\src\test\resources
+2017-03-30 08:53:16,975 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-30 08:53:16,977 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-30 08:53:16,978 [Worker-186] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-30 08:53:16,979 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Education\CFClass\cloud-native-workshop\12f_app\src\test\resources
