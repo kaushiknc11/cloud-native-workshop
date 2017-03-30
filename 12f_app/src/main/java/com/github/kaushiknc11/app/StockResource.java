@@ -45,7 +45,7 @@ public class StockResource {
         StockItem stockItem = stockItemRepository.findOne(id);
 
         if (stockItem == null) {
-            logger.info("Stock item(id={}) has not been found", id);
+            logger.info("Stock item(id={}) has not been found :(", id);
             response.setStatus(HttpStatus.NOT_FOUND.value());
             return null;
         }
